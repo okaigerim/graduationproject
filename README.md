@@ -11,6 +11,21 @@ geocoder.py - geocoding coordinates to locations and vice versa <br />
 <hr/>
 <h1>Development of an information system for predicting real estate prices using machine learning and neural networks</h1>
 
+### Tools for machine learning algorithms development:
+<ul>
+  <li>Web Scraper Google Chrome Extension for scraping data;</li>
+  <li>Python programming language for data analysis and web development;</li>
+  <li>Jupyter Notebook for machine learning model development;</li>
+  <li>Numpy, Pandas, Scikit-learn, Keras, Pickle libraries of Python for data analysis and model training/testing.</li>
+</ul>
+
+### Tools for web application development:
+<ul>
+  <li>Pycharm IDE;</li>
+  <li>HTML, CSS, JS, Bootstrap for front-end development;</li>
+  <li>Flask framework for machine learning model deployment;</li>
+  <li>The Google Sheets Geocode Awesome extension for geocoding latitude and longitude of real estate.</li>
+</ul>
 <h2>Data Preparation</h2>
 
 <p>The first and most crucial stage of machine learning is data collection. Data collection is the process of collecting and measuring information on variables of interest in a defined systematic manner that allows answers to research questions, testing hypotheses, and evaluating results. The research data collection component is common to all fields of study, including physical and social sciences, humanities, business, and more. Regardless of the field of study or the preference for defining the data (quantitative, qualitative), accurate data collection is important to maintain the integrity of the study. The selection of appropriate data collection tools (existing, modified, or newly developed), as well as well-defined guidelines for their proper use, also reduces the likelihood of errors.</p>
